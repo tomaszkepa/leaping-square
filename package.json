@@ -1,0 +1,23 @@
+{
+    "name": "LeapingSquare",
+    "version": "1.0.0",
+    "description": "LeapingSquare",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "main": "index.html",
+    "directories": {
+        "doc": "doc"
+    },
+    "dependencies": {
+        "bower": "^1.3.9",
+        "gulp": "^3.8.7",
+        "gulp-bower-files": "^0.2.7",
+        "gulp-bower-src": "^0.1.0"
+    },
+    "devDependencies": {
+        "gulp": "^3.8.7"
+    },
+    "author": "Tomasz Kepa <tomasz.kepa@live.com>",
+    "license": "MIT"
+}

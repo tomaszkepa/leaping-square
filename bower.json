@@ -1,0 +1,22 @@
+{
+  "name": "LeapingSquare",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tomaszkepa/LeapingSquare",
+  "authors": [
+    "Tomasz Kepa <tomasz.kepa@live.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.0.7",
+    "processing": "~1.4.8",
+    "modernizr": "~2.8.3",
+    "normalize.css": "~3.0.1"
+  }
+}
