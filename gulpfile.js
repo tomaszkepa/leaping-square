@@ -13,6 +13,6 @@ gulp.task('default', ['copy']);
 gulp.task('copy', function () {
     gulp.src(paths.modernizer.src).pipe(gulp.dest(paths.modernizer.dest));
     gulp.src(paths.processing.src).pipe(gulp.dest(paths.processing.dest));
-//    gulp.src(paths.phaser.src).pipe(gulp.dest(paths.phaser.dest));
+    gulp.src(paths.phaser.src).pipe(gulp.dest(paths.phaser.dest));
     gulp.src(paths.normalize.src).pipe(gulp.dest(paths.normalize.dest));
 });
