@@ -1,3 +1,3 @@
-LeapingSquare
+leaping-square
 ===
-Control with camera, still in development phase!
+Created 4fun.
